@@ -64,7 +64,8 @@
 
 	<script src="//cdn.bootcss.com/jquery/2.2.0/jquery.min.js"></script>
 	<script src="//cdn.bootcss.com/marked/0.3.6/marked.min.js"></script>
-	<script src="//cdn.bootcss.com/ace/1.2.5/ace.js"></script>
+	<script src="//cdn.bootcss.com/ace/1.3.3/ace.js"></script>
+	<!-- <script src="//cdn.bootcss.com/ace/1.2.5/ace.js"></script> -->
 	<!-- <script src="//cdn.bootcss.com/prism/0.0.1/prism.min.js"></script> -->
 	<!-- <script src="//cdn.bootcss.com/mathjax/2.5.3/MathJax.js"></script> -->
 	<script src="//cdn.bootcss.com/mathjax/2.6.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
